@@ -54,3 +54,60 @@
 # Terminal 
 - ls: lista os arquivos salvos
 - nano test.py: abre o editor
+
+```
+>>> livia=21
+>>> guilher=19
+>>> felipe=19
+>>> media = (livia + guiler + felipe)/3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'guiler' is not defined. Did you mean: 'guilher'?
+>>> media = (felipe +guilher + felipe)/3
+>>> 
+>>> 
+>>> 
+>>> media = (felipe +guilher + felipe)/3
+>>> media
+19.0
+>>> media= (felipe + livia + guilher) /3
+>>> media
+19.666666666666668
+>>> 
+>>> 
+>>> 
+>>> nano test.py
+  File "<stdin>", line 1
+    nano test.py
+         ^^^^
+SyntaxError: invalid syntax
+>>> exit()
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % nano media.py
+kauacastanho@neymar-jr ~ % ls           
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures	media
+kauacastanho@neymar-jr ~ % nano test.py 
+kauacastanho@neymar-jr ~ % python test.py
+zsh: command not found: python
+kauacastanho@neymar-jr ~ % nano test.py  
+kauacastanho@neymar-jr ~ % python test.py
+zsh: command not found: python
+kauacastanho@neymar-jr ~ % nano test.py
+kauacastanho@neymar-jr ~ % python test.py
+zsh: command not found: python
+kauacastanho@neymar-jr ~ % nano test.py  
+kauacastanho@neymar-jr ~ % python test.py
+zsh: command not found: python
+kauacastanho@neymar-jr ~ % nano test.py  
+kauacastanho@neymar-jr ~ % python test.py
+zsh: command not found: python
+kauacastanho@neymar-jr ~ % python3 test.py
+a soma é 19.666666666666668
+kauacastanho@neymar-jr ~ % 
+
+```
