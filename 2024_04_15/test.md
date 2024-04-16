@@ -1,41 +1,41 @@
-# segunda_aula
+<h1> Segunda Aula </h1> 
 
                                         **Aula do dia 15.04.2024**
 
-# linguagens de alto nivel
+<h2> linguagens de alto nivel </h2>
 - Mais próximos da linguagem humana
 - O mesmo código executa em diferentes hardwares
 - Python, Java, C#, JavaScript, Ruby
 
-# Linguagens de baixo nivel
+<h2>  Linguagens de baixo nivel </h2> 
 - Mais próximos da linguagem da máquina (mais dificil de entender a sintaxe)
 - São dependentes do hardware progrmado
 - Oferecem um maior controle sobre os recursos de baixo nivel (memória, processador)
 - Muito desempenho
 - Assembly
 
-# Linguagens de proposito geral
+<h2> Linguagens de proposito geral </h2> 
 - Uma ampla variedade de aplicação
 - Mais versateis
 - Mais usuários (programadores)
 - Python, JavaScript e Ruby.
 
-# Linguagens de dominio especifico
+<h2> Linguagens de dominio especifico </h2> 
 - Também chamadas de DSL (Domain Specific Languages) 
 - Resolvem problemas em um domínio particular
 - Otimizadas para lidar com tarefas específicas dentro de uma área especifica
 
-# Frequentemente combinadas com linguagens de propósito geral
+<h2>  Frequentemente combinadas com linguagens de propósito geral </h2> 
 - SQL (banco de dados) 
 - HTML/CSS (desenvolvimento web) 
 - MATLAB (computação numérica) 
 - VHDL (design de circuitos)
 
-# Compilacao ou interpretacao
+<h2>  Compilacao ou interpretacao </h2> 
 
 ![alt text](image.png)
 
-# Dinamicamente tipado
+<h2>  Dinamicamente tipado  
 - São linguagens onde o valor da variavel definida pode ser alterada durante a execucao do programa 
 - (e.g. Python, JS)
 
