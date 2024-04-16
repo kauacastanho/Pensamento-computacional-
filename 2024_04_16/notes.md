@@ -196,8 +196,7 @@ Conjunto mutável de pares chave-valor
 
 ```
 a = 10
-b
-= 3
+b = 3
 ```
 
 <h2> Adição <h2>
