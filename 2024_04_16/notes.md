@@ -199,10 +199,10 @@ a = 10
 b = 3
 ```
 
-<h2> Adição <h2>
+<h2> Adição </h2>
 
 ```
-print (a + b) #• Output: 13
+print (a + b) # Output: 13
 ```
 
 <h2> Subtração </h2>
