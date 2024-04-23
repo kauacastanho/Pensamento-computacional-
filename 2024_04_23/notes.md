@@ -117,7 +117,7 @@ Syntactic sugar similar ao ‘if ternário’, possibilitando operações com li
 
 <br>
 
-- Imprime losango
+
 
 <br>
 
