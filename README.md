@@ -7,4 +7,4 @@
 <br>[link para as anotações 29/04/2024](2024_04_29/notes.md) - Strings e random 
 <br>[link para as anotações 20/05/2024](2024_05_20/notes.md) - Dicionários
 <br>[link para as anotações 27/05/2024](2024_05_27/notes.md) - Introdução à Funções
-
+<br>[link para as anotações 03/06/2024](2024_06_03/notes.md) - Funções built-in e uso de import
