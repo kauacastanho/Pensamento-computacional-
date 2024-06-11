@@ -53,6 +53,7 @@ https://docs.python.org/3/library/functions.html#open
     No Windows ocorre com o caractere de retorno de carro '\r' seguido da nova linha '\n' ('\r\n')
 
     read() e readline() retorna o conteúdo incluindo os caracteres de quebra de linha
+
 '''
 
 <br>
@@ -94,9 +95,11 @@ https://docs.python.org/3/library/functions.html#open
 <br>
 
 '''
+
     Garante que a Garbage Collection ocorra para o arquivo assim que o bloco terminar. 
     Dispensa a necessidade do close()
     Pode ser utilizado com outros recursos, como conexão com DB.
+
 
 '''
 
@@ -114,7 +117,9 @@ https://docs.python.org/3/library/functions.html#open
 <br>
 
 '''
+
     Retorna um bool informando se o arquivo (ou pasta) existe.
+
 '''
 
 <br>
@@ -131,7 +136,9 @@ https://docs.python.org/3/library/functions.html#open
 <br>
 
 '''
+
     Cria a pasta com o nome informado ou falha se já existir
+
 '''
 
 <br>
